@@ -1,0 +1,17 @@
+h1 {
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    color: beige;
+}
+
+h2 {
+    font-family: monospace;
+}
+
+h3 {
+    color: crimson;
+}
+
+body {
+    background-image: url('aur.jpg')
+}
